@@ -1,0 +1,12 @@
+C:\Repos\Pet-projects\Mindbox.Squares\src\Mindbox.Squares.Library\bin\Debug\net6.0\Mindbox.Squares.Library.deps.json
+C:\Repos\Pet-projects\Mindbox.Squares\src\Mindbox.Squares.Library\bin\Debug\net6.0\Mindbox.Squares.Library.dll
+C:\Repos\Pet-projects\Mindbox.Squares\src\Mindbox.Squares.Library\bin\Debug\net6.0\Mindbox.Squares.Library.pdb
+C:\Repos\Pet-projects\Mindbox.Squares\src\Mindbox.Squares.Library\obj\Debug\net6.0\Mindbox.Squares.Library.csproj.AssemblyReference.cache
+C:\Repos\Pet-projects\Mindbox.Squares\src\Mindbox.Squares.Library\obj\Debug\net6.0\Mindbox.Squares.Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\Pet-projects\Mindbox.Squares\src\Mindbox.Squares.Library\obj\Debug\net6.0\Mindbox.Squares.Library.AssemblyInfoInputs.cache
+C:\Repos\Pet-projects\Mindbox.Squares\src\Mindbox.Squares.Library\obj\Debug\net6.0\Mindbox.Squares.Library.AssemblyInfo.cs
+C:\Repos\Pet-projects\Mindbox.Squares\src\Mindbox.Squares.Library\obj\Debug\net6.0\Mindbox.Squares.Library.csproj.CoreCompileInputs.cache
+C:\Repos\Pet-projects\Mindbox.Squares\src\Mindbox.Squares.Library\obj\Debug\net6.0\Mindbox.Squares.Library.dll
+C:\Repos\Pet-projects\Mindbox.Squares\src\Mindbox.Squares.Library\obj\Debug\net6.0\refint\Mindbox.Squares.Library.dll
+C:\Repos\Pet-projects\Mindbox.Squares\src\Mindbox.Squares.Library\obj\Debug\net6.0\Mindbox.Squares.Library.pdb
+C:\Repos\Pet-projects\Mindbox.Squares\src\Mindbox.Squares.Library\obj\Debug\net6.0\ref\Mindbox.Squares.Library.dll

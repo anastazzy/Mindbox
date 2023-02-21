@@ -1,0 +1,10 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=70c05747_002D94b5_002D4d52_002Db2c1_002D7c78b943e31a/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="GetSquare_RadiusNotNull_ReturnSquare" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::491DD403-8155-4A1B-9566-3E10134A5F8C::net6.0::Mindbox.Squares.Tests.CircleTests.GetSquare_RadiusNotNull_ReturnSquare&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::491DD403-8155-4A1B-9566-3E10134A5F8C::net6.0::Mindbox.Squares.Tests.FigureFactoryTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::491DD403-8155-4A1B-9566-3E10134A5F8C::net6.0::Mindbox.Squares.Tests.CircleTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::491DD403-8155-4A1B-9566-3E10134A5F8C::net6.0::Mindbox.Squares.Tests.TriangleTests.GetSquare_TriangleNotExist_ThrowArgumentException&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::491DD403-8155-4A1B-9566-3E10134A5F8C::net6.0::Mindbox.Squares.Tests.TriangleTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
