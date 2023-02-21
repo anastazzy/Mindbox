@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mindbox.Squares.Library", "src\Mindbox.Squares.Library\Mindbox.Squares.Library.csproj", "{677356E8-EE45-48E0-94C7-291B7183F99D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mindbox.Squares.Tests", "tests\Mindbox.Squares.Tests\Mindbox.Squares.Tests.csproj", "{491DD403-8155-4A1B-9566-3E10134A5F8C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{BBB4E642-4741-415A-A200-9761C9B1E6D9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{D98BFC00-04FB-4FB8-80F5-F95F654D1E62}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "sql", "sql", "{A24E15F7-BE57-4325-9515-FB083F674D13}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{677356E8-EE45-48E0-94C7-291B7183F99D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{677356E8-EE45-48E0-94C7-291B7183F99D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{677356E8-EE45-48E0-94C7-291B7183F99D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{677356E8-EE45-48E0-94C7-291B7183F99D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{491DD403-8155-4A1B-9566-3E10134A5F8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{491DD403-8155-4A1B-9566-3E10134A5F8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{491DD403-8155-4A1B-9566-3E10134A5F8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{491DD403-8155-4A1B-9566-3E10134A5F8C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{677356E8-EE45-48E0-94C7-291B7183F99D} = {BBB4E642-4741-415A-A200-9761C9B1E6D9}
+		{491DD403-8155-4A1B-9566-3E10134A5F8C} = {D98BFC00-04FB-4FB8-80F5-F95F654D1E62}
+	EndGlobalSection
+EndGlobal
